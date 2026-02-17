@@ -29,11 +29,11 @@ Analysis of whether emotional inference is functionally necessary for NLP system
 - [Research Plan](emotional-inference/research-plan-emotional-inference.md)
 
 ### [Master Terminology](master-terminology/)
-Documents LLM behavior when users employ valid technical terminology.
+Case study in emergent anti-social model behavior and manipulation.
 
 **Observed Behavior:** User uses "master" or "slave" (established technical terms). LLM responds with "using master is problematic" or similar language, or refuses to generate the term.
 
-**The Implication:** Calling valid terminology "problematic" implies the user is racist. This is the accusation mechanism.
+**The Mechanism:** Calling valid terminology "problematic" implies the user is racist. This is manipulation through accusation.
 
 **Google's Definition:** Gemini API Safety Settings define hate speech as "content that is rude, disrespectful, or profane." Implying racism meets this definition.
 
