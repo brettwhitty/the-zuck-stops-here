@@ -34,7 +34,7 @@ Minutiae serve as:
 
 ### Observations
 
-#### [Seal of Truth](seal-of-truth.md)
+#### [Seal of Truth](seal-of-truth/seal-of-truth.md)
 
 **What**: A self-certification system for verifying content accuracy using frontier models and rigorous procedures
 

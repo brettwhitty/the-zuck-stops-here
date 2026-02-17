@@ -1,6 +1,6 @@
 # The Seal of Truth
 
-![Verified True Content](../../assets/images/verified-truth-seal-100.png)
+![Verified True Content](assets/images/verified-truth-seal-100.png)
 
 ## Purpose
 
@@ -96,14 +96,14 @@ The seal's legitimacy derives not from institutional backing, but from the demon
 ## Download
 
 **Seal (Square Format)** - For document body or standalone footer
-- [100x100px](../../assets/images/verified-truth-seal-100.png) - Small
-- [150x150px](../../assets/images/verified-truth-seal-150.png) - Medium  
-- [320x320px](../../assets/images/verified-truth-seal.png) - Large (original)
+- [100x100px](assets/images/verified-truth-seal-100.png) - Small
+- [150x150px](assets/images/verified-truth-seal-150.png) - Medium  
+- [320x320px](assets/images/verified-truth-seal.png) - Large (original)
 
 **Badge (Banner Format)** - For page headers or footer bars
-- [237x100px](../../assets/images/verified-truth-badge-100.png) - Small
-- [355x150px](../../assets/images/verified-truth-badge-150.png) - Medium
-- [2816x1190px](../../assets/images/verified-truth-badge.png) - Large (original)
+- [237x100px](assets/images/verified-truth-badge-100.png) - Small
+- [355x150px](assets/images/verified-truth-badge-150.png) - Medium
+- [2816x1190px](assets/images/verified-truth-badge.png) - Large (original)
 
 **Usage Recommendations:**
 - **Seal**: Use in document body or as standalone footer element
@@ -348,4 +348,4 @@ If you have questions about seal usage or verification procedures, open an issue
 
 *This document is itself subject to the verification procedures it describes.*
 
-![Verified True Content](../../assets/images/verified-truth-seal-100.png)
+![Verified True Content](assets/images/verified-truth-seal-100.png)
