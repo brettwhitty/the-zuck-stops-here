@@ -3,13 +3,14 @@
 ## Contents
 
 - **facebook-sentiment-analysis-timeline.md** - Comprehensive timeline and analysis of Facebook's sentiment analysis capabilities from 2007-2014
-- **kramer-2010-aggregate-emotional-expression.pdf** - An Aggregate Analysis of Emotional Expression (CHI 2010)
-- **kramer-2014-emotional-contagion.pdf** - Experimental evidence of massive-scale emotional contagion through social networks (PNAS 2014)
-- **loper-bird-2002-nltk.pdf** - NLTK: The Natural Language Toolkit (ACL 2002)
-- **pang-lee-2002-sentiment.pdf** - Thumbs up? Sentiment Classification using Machine Learning Techniques (EMNLP 2002)
+- **kramer-2010-aggregate-emotional-expression.pdf** - An Aggregate Analysis of Emotional Expression (CHI 2010) - 5 pages
+- **kramer-2014-emotional-contagion.pdf** - Experimental evidence of massive-scale emotional contagion through social networks (PNAS 2014) - 3 pages
+- **pnas-2014-editorial-expression-of-concern.pdf** - PNAS Editorial Expression of Concern about the 2014 study - 1 page
+- **loper-bird-2002-nltk.pdf** - NLTK: The Natural Language Toolkit (ACL 2002) - 8 pages
+- **pang-lee-2002-sentiment.pdf** - Thumbs up? Sentiment Classification using Machine Learning Techniques (EMNLP 2002) - 8 pages
 - **references.bib** - BibTeX bibliography for all cited sources
 
-## Key Papers (All PDFs Included)
+## All Key Papers Included
 
 The following papers are cited in the timeline but require institutional access or library access to download. Direct download attempts return 403 Forbidden errors:
 
