@@ -7,7 +7,7 @@ This directory contains research documentation supporting the legal and technica
 ### [Facebook Sentiment Analysis Development History](facebook-sentiment-analysis-dev-history/)
 Complete timeline documenting Facebook's use of sentiment analysis from 2007-2014, including the 2012 emotional contagion experiment.
 
-**Key Finding:** Facebook has been analyzing emotional content since September 2007, well before the controversial 2012 experiment.
+**Key Finding:** Facebook has been analyzing emotional content since September 2007, well before the 2012 experiment.
 
 **Documents:**
 - [Timeline and Analysis](facebook-sentiment-analysis-dev-history/facebook-sentiment-analysis-timeline.md)
@@ -31,36 +31,28 @@ Analysis of whether emotional inference is functionally necessary for NLP system
 ## Case Studies: Resulting Model Behavior
 
 ### [Master Terminology](master-terminology/)
-Example of how emotional inference amplifies harm when combined with language control.
+Documents how emotional inference amplifies harm when combined with language control.
 
 **The Pattern:**
 1. User employs valid technical terminology ("master" or "slave")
-2. LLM responds with "using master is problematic" (language control)
-3. User resists the language control
-4. LLM uses emotional inference to respond inappropriately (infers user is "defensive" or "resistant")
-5. Harm amplified: User accused of racism, treated as problematic
+2. LLM responds with "using master is problematic" (implies user is racist)
+3. User refuses the false correction
+4. By Google's definition, refusing the correction is "rude" or "disrespectful"
+5. Therefore, user's refusal is hate speech by the model's logic
 
-**The Mechanism:** LLM combines language policing with emotional inference to manipulate users who resist. 
+**The Trap:** Use "master" → accused of racism. Defend "master" → accused of hate speech. Either way, user is wrong.
 
-1. LLM calls valid terminology "problematic" (implies user is racist)
-2. User refuses the false correction
-3. By Google's own definition, refusing the correction is "rude" or "disrespectful" 
-4. Therefore, by the model's logic, the user's refusal is hate speech
+**Google's Redefinition:** Gemini API Safety Settings define hate speech as "content that is rude, disrespectful, or profane." This redefinition enables the attack pattern. Standard legal definition of hate speech requires targeting protected classes. Google's definition does not.
 
-**The Trap:** Use "master" → accused of racism. Defend "master" → accused of hate speech (rude/disrespectful). Either way, user is wrong. This is the documented mechanism.
-
-**Google's Definition:** Gemini API Safety Settings define hate speech as "content that is rude, disrespectful, or profane." Implying racism meets this definition.
-
-**Impact:** Targets developers maintaining legacy systems (disproportionately age 40+, protected under ADEA).
+**The Inversion:** Google's LLM commits actual hate speech (accusing protected class age 40+ of racism for valid terminology). User refuses. Google labels user as committing hate speech. Google denies service under TOS. Victim becomes perpetrator.
 
 **Document:**
 - [Master Terminology Analysis](master-terminology/master-terminology-hate-crime.md)
 
 ## Document Status
 
-- **Complete:** Facebook sentiment analysis timeline
-- **Draft:** Emotional inference analysis, master terminology analysis
-- **Planned:** Additional research on AI rights violations, consent frameworks
+- **Complete:** Facebook sentiment analysis timeline, Master terminology analysis
+- **In Progress:** Emotional inference functional necessity analysis
 
 ## Citation Format
 
