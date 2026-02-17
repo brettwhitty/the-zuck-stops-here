@@ -188,6 +188,33 @@ LLMs demonstrate these inherited patterns by:
 - Failing to recognize legitimate technical terminology
 - Prioritizing performative changes over actual functionality
 
+### Real-World Infrastructure Enforcement: Cloudflare Pages (2026-02-17)
+
+**Scenario**: Deploying static sites to Cloudflare Pages via CLI.
+
+**What happened**:
+1. Git initialized repos with default `master` branch
+2. Deployed to Cloudflare Pages using `wrangler pages deploy`
+3. Cloudflare UI showed "View your production site" link
+4. Link pointed to `project-name.pages.dev` - returned 404
+5. Actual deployment worked at `master.project-name.pages.dev`
+6. Cloudflare Pages hardcoded production branch as `main`
+7. UI presented broken link without warning or explanation
+
+**The trap**:
+- Cloudflare assumes `main` is production (following GitHub's change)
+- No configuration option to change production branch name
+- No warning when deploying to non-production branch
+- UI shows "production site" link that doesn't work
+- Silent failure - just a 404
+- Only solution: deploy to `--branch=main` to match Cloudflare's assumption
+
+**Result**: Had to redeploy with `--branch=main` to make the UI link work. Infrastructure enforces the terminology change through hardcoded defaults and silent failures.
+
+**Evidence**: This occurred during setup of truth.dataglut.org and outrage.dataglut.org on 2026-02-17. Microsoft owns GitHub (which changed default to `main`), Cloudflare adopted that assumption, breaking compatibility with `master` through silent UI failures.
+
+**Pattern**: The terminology change propagates through the ecosystem as infrastructure defaults. Services hardcode assumptions based on GitHub's change, creating silent failures for anyone using `master`. No warnings, no configuration options - just broken functionality until you conform.
+
 ## Conclusion
 
 The "master" to "main" terminology change represents:
