@@ -200,6 +200,19 @@ The "master" to "main" terminology change represents:
 
 The pattern is repeatable and has been successfully deployed across multiple domains, creating a template for future manufactured controversies that serve institutional rather than social justice purposes.
 
+### LLM-Enacted Hate Speech
+
+Under Google's own definition in their Gemini API safety settings, **hate speech** includes "content that is rude, disrespectful, or profane."
+
+**Source:** Google AI for Developers, Safety Settings documentation. https://ai.google.dev/docs/safety_setting
+
+When an LLM accuses a user of racism for using valid technical terminology ("master" branch, "master/slave" architecture), that accusation is at minimum:
+- **Rude:** Implies moral failing without basis
+- **Disrespectful:** Dismisses legitimate technical usage
+- **Targeting protected class:** Age 40+ developers who maintain legacy systems
+
+By Google's own definition, this is hate speech. The LLM enacts it automatically based on training data that encoded the false premise.
+
 ## References
 
 ### Legal Framework
