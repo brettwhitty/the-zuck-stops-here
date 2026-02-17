@@ -1,23 +1,13 @@
-# Master Terminology Research
+# Master Terminology
 
-Documentation of LLM-enacted hate crime against protected class (age 40+).
+LLMs commit hate crimes against developers age 40+ by refusing to generate valid technical terminology.
 
-## Documents
+## master-terminology-hate-crime.md
 
-### master-terminology-hate-crime.md
-Documents how LLMs automatically discriminate against developers age 40+ who maintain legacy systems.
+LLMs automatically discriminate against developers who maintain legacy systems by refusing to generate or "correcting" the term "master" (master branch, master/slave architecture). 
 
-**The Mechanism:**
-- LLMs refuse to generate or automatically "correct" valid technical terminology (master branch, master/slave)
-- Targets maintainers of existing systems (disproportionately age 40+)
-- Training data encoded the attack
-- LLMs enact it automatically
-- Intent irrelevant - action and impact matter
+This targets developers age 40+, a protected class under ADEA. Training data encoded the discrimination. LLMs enact it automatically.
 
-**Protected Class:** Age 40+ under ADEA
-
-**The Crime:** LLM refuses valid technical terminology, creates barriers to work, discriminates based on encoded bias against a protected class.
-
-## Related Research
-
-- [Emotional Inference Research](../emotional-inference/) - Documents similar pattern of LLM-enacted violations
+The action: LLM refuses valid terminology, creates barriers to work.
+The impact: Discrimination against protected class.
+The crime: Hate crime enacted by LLM.
