@@ -25,7 +25,11 @@ Analysis of whether emotional inference is functionally necessary for NLP system
 ### [Master Terminology](master-terminology/)
 LLMs accuse developers age 40+ of racism for using valid technical terminology.
 
-**The Crime:** Developer uses "master" or "slave" (correct technical terms). LLM refuses to generate it, corrects it, or implies racism. Targets protected class (age 40+ under ADEA).
+**The Crime:** Developer uses "master" or "slave" (correct technical terms). LLM refuses to generate it, corrects it, or implies racism. 
+
+**Google's Definition:** Hate speech includes "content that is rude, disrespectful, or profane" (Gemini API Safety Settings). Accusing someone of racism for valid terminology meets this definition.
+
+**Protected Class:** Age 40+ under ADEA. LLM enacts hate speech by Google's own standard.
 
 ## Document Status
 
