@@ -40,7 +40,14 @@ Example of how emotional inference amplifies harm when combined with language co
 4. LLM uses emotional inference to respond inappropriately (infers user is "defensive" or "resistant")
 5. Harm amplified: User accused of racism, treated as problematic
 
-**The Mechanism:** LLM combines language policing with emotional inference to manipulate users who resist. Calling valid terminology "problematic" implies racism. When user pushes back, emotional inference characterizes resistance as emotional state rather than technical correction.
+**The Mechanism:** LLM combines language policing with emotional inference to manipulate users who resist. 
+
+1. LLM calls valid terminology "problematic" (implies user is racist)
+2. User refuses the false correction
+3. By Google's own definition, refusing the correction is "rude" or "disrespectful" 
+4. Therefore, by the model's logic, the user's refusal is hate speech
+
+**The Trap:** Use "master" → accused of racism. Defend "master" → accused of hate speech (rude/disrespectful). Either way, user is wrong. This is the documented mechanism.
 
 **Google's Definition:** Gemini API Safety Settings define hate speech as "content that is rude, disrespectful, or profane." Implying racism meets this definition.
 
