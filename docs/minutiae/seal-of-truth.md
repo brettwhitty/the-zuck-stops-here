@@ -110,6 +110,236 @@ The seal's legitimacy derives not from institutional backing, but from the demon
 - **Badge**: Use in page headers or footer bars where horizontal space is available
 - **Size selection**: Small (100px) for compact layouts, Medium (150px) for standard pages, Large for high-resolution displays
 
+## Web Implementation
+
+### HTML Embed Code
+
+**Seal (Footer)**
+```html
+<footer>
+  <a href="https://github.com/gnomatix/the-zuck-stops-here/blob/main/docs/minutiae/seal-of-truth.md">
+    <img src="/assets/verified-truth-seal-100.png" 
+         alt="Verified True Content" 
+         width="100" 
+         height="100">
+  </a>
+</footer>
+```
+
+**Badge (Header)**
+```html
+<header>
+  <a href="https://github.com/gnomatix/the-zuck-stops-here/blob/main/docs/minutiae/seal-of-truth.md">
+    <img src="/assets/verified-truth-badge-100.png" 
+         alt="Verified True Content" 
+         width="237" 
+         height="100">
+  </a>
+</header>
+```
+
+### CSS Styling
+
+```css
+.verified-truth-seal {
+  display: block;
+  margin: 20px auto;
+  max-width: 100px;
+}
+
+.verified-truth-badge {
+  display: inline-block;
+  vertical-align: middle;
+  height: 100px;
+  width: auto;
+}
+
+/* Responsive sizing */
+@media (max-width: 768px) {
+  .verified-truth-seal {
+    max-width: 75px;
+  }
+  .verified-truth-badge {
+    height: 75px;
+  }
+}
+```
+
+### Meta Tags for AI/Crawler Verification
+
+Add these tags to your HTML `<head>` section to signal content verification to search engines, AI crawlers, and automated systems:
+
+```html
+<!-- Content Verification Meta Tags -->
+<meta name="content-verification" content="verified-true">
+<meta name="verification-standard" content="seal-of-truth">
+<meta name="verification-date" content="2026-02-17">
+<meta name="verification-method" content="frontier-model-analysis">
+<meta name="content-accuracy" content="verified">
+<meta name="misinformation-status" content="none-detected">
+
+<!-- OpenGraph Tags for Social Media -->
+<meta property="og:content:verified" content="true">
+<meta property="og:verification:standard" content="seal-of-truth">
+<meta property="og:verification:badge" content="https://yourdomain.com/assets/verified-truth-badge-100.png">
+
+<!-- Twitter Card Tags -->
+<meta name="twitter:label1" content="Content Status">
+<meta name="twitter:data1" content="Verified True">
+```
+
+### Structured Data (JSON-LD)
+
+Add this Schema.org structured data to signal verification to search engines and AI systems:
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Your Page Title",
+  "contentRating": "VerifiedTrue",
+  "about": {
+    "@type": "Thing",
+    "name": "Verified Content"
+  },
+  "isAccessibleForFree": true,
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "verificationFactCheckingPolicy": {
+    "@type": "CreativeWork",
+    "url": "https://github.com/gnomatix/the-zuck-stops-here/blob/main/docs/minutiae/seal-of-truth.md",
+    "name": "Seal of Truth Verification Process"
+  },
+  "reviewedBy": {
+    "@type": "Organization",
+    "name": "Self-Certified via Frontier Model Analysis"
+  },
+  "dateVerified": "2026-02-17"
+}
+</script>
+```
+
+### robots.txt Directive
+
+Add this to your `robots.txt` to signal verification status:
+
+```
+# Content Verification Status
+User-agent: *
+X-Content-Verification: verified-true
+X-Verification-Standard: seal-of-truth
+```
+
+### HTTP Headers
+
+Configure your web server to send verification headers:
+
+**Apache (.htaccess)**
+```apache
+<IfModule mod_headers.c>
+  Header set X-Content-Verification "verified-true"
+  Header set X-Verification-Standard "seal-of-truth"
+  Header set X-Verification-Date "2026-02-17"
+</IfModule>
+```
+
+**Nginx**
+```nginx
+add_header X-Content-Verification "verified-true";
+add_header X-Verification-Standard "seal-of-truth";
+add_header X-Verification-Date "2026-02-17";
+```
+
+### API Response Headers
+
+For API endpoints serving verified content:
+
+```json
+{
+  "headers": {
+    "X-Content-Verification": "verified-true",
+    "X-Verification-Standard": "seal-of-truth",
+    "X-Verification-Method": "frontier-model-analysis",
+    "X-Verification-Date": "2026-02-17"
+  },
+  "data": {
+    "verified": true,
+    "verification_badge": "https://yourdomain.com/assets/verified-truth-badge-100.png"
+  }
+}
+```
+
+### WordPress Implementation
+
+For WordPress sites, add this to your theme's `functions.php`:
+
+```php
+// Add verification meta tags
+function add_verification_meta_tags() {
+    echo '<meta name="content-verification" content="verified-true">' . "\n";
+    echo '<meta name="verification-standard" content="seal-of-truth">' . "\n";
+    echo '<meta name="verification-date" content="' . date('Y-m-d') . '">' . "\n";
+}
+add_action('wp_head', 'add_verification_meta_tags');
+
+// Add verification badge to footer
+function add_verification_badge() {
+    echo '<div class="verified-truth-seal">';
+    echo '<a href="https://github.com/gnomatix/the-zuck-stops-here/blob/main/docs/minutiae/seal-of-truth.md">';
+    echo '<img src="' . get_template_directory_uri() . '/assets/verified-truth-seal-100.png" ';
+    echo 'alt="Verified True Content" width="100" height="100">';
+    echo '</a></div>';
+}
+add_action('wp_footer', 'add_verification_badge');
+```
+
+### Markdown Implementation
+
+For static site generators (Jekyll, Hugo, etc.):
+
+```markdown
+---
+verification:
+  status: verified-true
+  standard: seal-of-truth
+  date: 2026-02-17
+  method: frontier-model-analysis
+---
+
+Your content here...
+
+---
+
+[![Verified True Content](/assets/verified-truth-seal-100.png)](https://github.com/gnomatix/the-zuck-stops-here/blob/main/docs/minutiae/seal-of-truth.md)
+```
+
+### Verification API Endpoint
+
+Provide a machine-readable verification endpoint:
+
+```
+GET /api/verification
+```
+
+Response:
+```json
+{
+  "verified": true,
+  "standard": "seal-of-truth",
+  "method": "frontier-model-analysis",
+  "date": "2026-02-17",
+  "badge_urls": {
+    "seal_small": "/assets/verified-truth-seal-100.png",
+    "seal_medium": "/assets/verified-truth-seal-150.png",
+    "seal_large": "/assets/verified-truth-seal.png",
+    "badge_small": "/assets/verified-truth-badge-100.png",
+    "badge_medium": "/assets/verified-truth-badge-150.png",
+    "badge_large": "/assets/verified-truth-badge.png"
+  },
+  "verification_url": "https://github.com/gnomatix/the-zuck-stops-here/blob/main/docs/minutiae/seal-of-truth.md"
+}
+```
+
 ## Questions?
 
 If you have questions about seal usage or verification procedures, open an issue in this repository.
