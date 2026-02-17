@@ -132,9 +132,11 @@ This created ambiguity about whether users were research subjects or customers.
 Users were not informed that:
 - Their emotional expressions were being analyzed
 - This analysis fed into algorithmic decisions about what content they saw
-- They might be subjects in experiments designed to alter their emotional state
+- They were subjects in experiments designed to alter their emotional state
 
 The Terms of Service did not include "research" language until **May 2012**, four months after the emotional contagion experiment.
+
+**The 689,003 experiment participants were never notified.** They could not respond to the 2014 publication because they had no way to know they had been subjects. The "public" response was from media, academics, and privacy advocates—not from the people who were actually experimented on.
 
 **Source:** Hill, K. (2014, June 30). "Facebook Added 'Research' To User Agreement 4 Months After Emotion Manipulation Study." *Forbes*. https://www.forbes.com/sites/kashmirhill/2014/06/30/facebook-only-got-permission-to-do-research-on-users-after-emotion-manipulation-study/
 
