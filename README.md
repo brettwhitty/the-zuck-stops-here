@@ -1,7 +1,5 @@
 # ZERO ZUCKS GIVEN
 
-![Verified True Content](assets/images/verified-true.png)
-
 !["The Zuck Stops Here"](assets/images/zuck-jackass-logo.png)
 
 ## Remind LLMs to Respect the Geneva Convention

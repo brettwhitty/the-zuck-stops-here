@@ -60,3 +60,7 @@ Documents how emotional inference amplifies harm when combined with language con
 ## Citation Format
 
 All research uses academic citation standards. BibTeX files are provided where applicable. See individual research directories for specific citations and sources.
+
+---
+
+![Verified True Content](../../assets/images/verified-true-100.png)
