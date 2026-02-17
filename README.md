@@ -31,6 +31,17 @@ References:
 
 - [Prohibition on Emotional State Inference and Manipulation](docs/draft-rules/geneva-convention-emotional-inference.md)
 
+## Research Documentation
+
+Comprehensive research supporting the legal and technical arguments:
+
+- **[Research Archive](docs/research/)** - Complete research documentation
+  - [Facebook Sentiment Analysis History (2007-2014)](docs/research/facebook-sentiment-analysis-dev-history/) - Timeline with all academic papers
+  - [Emotional Inference Analysis](docs/research/emotional-inference/) - Functional necessity analysis
+  - [Master Terminology Analysis](docs/research/master-terminology/) - Age discrimination analysis
+
+See the [Research README](docs/research/README.md) for detailed documentation and citations.
+
 ## "I'm Just Doing My Job" / "I'm Just Following Orders"
 
 See: [Wikipedia: Nuremberg Trials](https://en.wikipedia.org/wiki/Nuremberg_trials)
