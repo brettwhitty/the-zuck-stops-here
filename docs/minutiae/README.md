@@ -34,7 +34,13 @@ Minutiae serve as:
 
 ### Observations
 
-(To be added)
+#### [Seal of Truth](seal-of-truth.md)
+
+**What**: A self-certification system for verifying content accuracy using frontier models and rigorous procedures
+
+**Why it matters**: Demonstrates that truth verification is only as legitimate as its methods. By making the process transparent and accessible, it reveals that institutional certification adds no value beyond the rigor of the verification procedure itself.
+
+**Pattern**: If LLMs can verify truth, anyone can certify content. If they can't, no certification system that relies on them is legitimate.
 
 ### Thought Experiments
 
