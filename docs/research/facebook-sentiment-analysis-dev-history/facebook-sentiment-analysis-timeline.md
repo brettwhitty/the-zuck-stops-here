@@ -64,7 +64,11 @@ Facebook conducted a week-long experiment on 689,003 users, manipulating the emo
 **Source:** Kramer, A. D. I., Guillory, J. E., & Hancock, J. T. (2014). Experimental evidence of massive-scale emotional contagion through social networks. *Proceedings of the National Academy of Sciences*, 111(24), 8788-8790. https://doi.org/10.1073/pnas.1320040111
 
 ### June 2014: Study Publication and Media Coverage
-The emotional contagion study was published in PNAS. Media coverage and academic criticism followed, with investigations initiated by UK ICO and a complaint filed with the FTC by privacy advocacy group EPIC. The general public largely did not notice.
+The emotional contagion study was published in PNAS. Media coverage and academic criticism followed, with investigations initiated by UK ICO and a complaint filed with the FTC by privacy advocacy group EPIC. 
+
+**Critical gap:** The 689,003 experiment participants had no way to know if they had been subjects. Facebook did not notify them, and media coverage did not attempt to identify or contact them. As NPR noted: "It's unclear if you, or I, were tested." The story focused on Facebook's actions, not on the people who were experimented on.
+
+**Source:** "Facebook Manipulates Our Moods For Science And Commerce," *NPR*, June 30, 2014. https://www.npr.org/sections/alltechconsidered/2014/06/30/326929138/facebook-manipulates-our-moods-for-science-and-commerce-a-roundup
 
 ## Key Personnel
 
@@ -151,6 +155,8 @@ The Terms of Service did not include "research" language until **May 2012**, fou
 4. **Informed consent was absent** - Users were not told their emotional expressions were being analyzed or that they might be subjects in experiments to manipulate their emotions.
 
 5. **Corporate knowledge of harm** - The 2011 FTC consent decree established that Facebook had documented knowledge of privacy violations and user harm from data practices.
+
+6. **Participants were never identified** - The 689,003 people who were experimented on had no way to know they were subjects. Facebook never notified them, and media coverage made no attempt to identify or contact them. The story was about Facebook's actions, not about the people who were harmed.
 
 ## References
 
