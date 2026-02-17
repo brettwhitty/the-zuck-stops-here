@@ -9,18 +9,19 @@ Complete timeline documenting Facebook's use of sentiment analysis from 2007-201
 
 **Key Finding:** Facebook has been analyzing emotional content since September 2007, well before the controversial 2012 experiment.
 
-**Contents:**
-- Comprehensive timeline with citations
-- All key academic papers (PDFs)
-- BibTeX bibliography
-- Documents IRB loophole used to legitimize the practice
+**Documents:**
+- [Timeline and Analysis](facebook-sentiment-analysis-dev-history/facebook-sentiment-analysis-timeline.md)
+- [BibTeX Bibliography](facebook-sentiment-analysis-dev-history/references.bib)
+- Academic papers (PDFs): Kramer 2010, Kramer 2014, PNAS Editorial, NLTK 2002, Pang 2002
 
 ### [Emotional Inference Research](emotional-inference/)
 Analysis of whether emotional inference is functionally necessary for NLP systems.
 
 **Key Argument:** Emotional inference was not necessary for NLP functionality - it emerged as a niche application in the 2000s and was made central to LLMs by design choice, not technical requirement.
 
-**Status:** Draft phase - needs additional citations and systematic literature review
+**Documents:**
+- [Functional Necessity Analysis](emotional-inference/emotional-inference-functional-necessity.md)
+- [Research Plan](emotional-inference/research-plan-emotional-inference.md)
 
 ### [Master Terminology](master-terminology/)
 Documents LLM behavior when users employ valid technical terminology.
@@ -32,6 +33,9 @@ Documents LLM behavior when users employ valid technical terminology.
 **Google's Definition:** Gemini API Safety Settings define hate speech as "content that is rude, disrespectful, or profane." Implying racism meets this definition.
 
 **Impact:** Targets developers maintaining legacy systems (disproportionately age 40+, protected under ADEA).
+
+**Document:**
+- [Master Terminology Analysis](master-terminology/master-terminology-hate-crime.md)
 
 ## Document Status
 
