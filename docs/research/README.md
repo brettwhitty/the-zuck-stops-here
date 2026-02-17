@@ -27,8 +27,6 @@ Analysis documenting LLM-enacted hate crime against protected class (age 40+).
 
 **Key Finding:** LLMs automatically discriminate against developers age 40+ who maintain legacy systems by refusing to generate or "correcting" valid technical terminology. Training data encoded the attack; LLMs enact it automatically.
 
-**Status:** Draft phase - comprehensive but needs formal citations
-
 ## Document Status
 
 - **Complete:** Facebook sentiment analysis timeline

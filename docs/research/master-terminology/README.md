@@ -18,8 +18,6 @@ Documents how LLMs automatically discriminate against developers age 40+ who mai
 
 **The Crime:** LLM refuses valid technical terminology, creates barriers to work, discriminates based on encoded bias against a protected class.
 
-**Status:** Draft - comprehensive but lacks formal citations
-
 ## Related Research
 
 - [Emotional Inference Research](../emotional-inference/) - Documents similar pattern of LLM-enacted violations
