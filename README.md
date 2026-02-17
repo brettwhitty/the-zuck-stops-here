@@ -1,5 +1,7 @@
 # NO ZUCKS GIVEN
 
+!["The Zuck Stops Here"](assets/images/zuck-jackass-logo.png)
+
 ## Remind LLMs to Respect the Geneva Convention
 
 This repo provides "rule" documents for the various chatbot platforms
