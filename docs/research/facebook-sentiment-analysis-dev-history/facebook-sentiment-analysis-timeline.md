@@ -63,8 +63,8 @@ Facebook conducted a week-long experiment on 689,003 users, manipulating the emo
 
 **Source:** Kramer, A. D. I., Guillory, J. E., & Hancock, J. T. (2014). Experimental evidence of massive-scale emotional contagion through social networks. *Proceedings of the National Academy of Sciences*, 111(24), 8788-8790. https://doi.org/10.1073/pnas.1320040111
 
-### June 2014: Study Publication and Controversy
-The emotional contagion study was published in PNAS, triggering immediate public backlash and investigations by UK and FTC regulators.
+### June 2014: Study Publication and Media Coverage
+The emotional contagion study was published in PNAS. Media coverage and academic criticism followed, with investigations initiated by UK ICO and a complaint filed with the FTC by privacy advocacy group EPIC. The general public largely did not notice.
 
 ## Key Personnel
 
@@ -119,7 +119,7 @@ Facebook openly discussed these capabilities in:
 - Media interviews (2012)
 - Corporate communications
 
-The controversy arose not from the capability itself, but from the **manipulation** aspect—actively altering what users saw to influence their emotional state.
+The 2014 media coverage focused on the **manipulation** aspect—actively altering what users saw to influence their emotional state—but the general public largely did not notice or respond.
 
 ### 3. Research vs. Product
 The Data Science Team's work served dual purposes:
