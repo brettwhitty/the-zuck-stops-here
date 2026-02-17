@@ -1,13 +1,13 @@
 # Master Terminology
 
-LLMs commit hate crimes against developers age 40+ by refusing to generate valid technical terminology.
+LLMs commit hate crimes against developers age 40+ by accusing them of racism for using valid technical terminology.
 
 ## master-terminology-hate-crime.md
 
-LLMs automatically discriminate against developers who maintain legacy systems by refusing to generate or "correcting" the term "master" (master branch, master/slave architecture). 
+Developer uses "master" or "slave" (valid technical terms).
+LLM refuses to generate it, corrects it, or implies the user is racist.
 
-This targets developers age 40+, a protected class under ADEA. Training data encoded the discrimination. LLMs enact it automatically.
+That's the hate crime. It's that simple.
 
-The action: LLM refuses valid terminology, creates barriers to work.
-The impact: Discrimination against protected class.
-The crime: Hate crime enacted by LLM.
+Protected class: Age 40+ under ADEA.
+The discrimination: Accusing members of protected class of racism for using correct terminology.
