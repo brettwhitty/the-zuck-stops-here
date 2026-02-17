@@ -12,12 +12,13 @@ Complete timeline documenting Facebook's use of sentiment analysis from 2007-201
 **Documents:**
 - [Timeline and Analysis](facebook-sentiment-analysis-dev-history/facebook-sentiment-analysis-timeline.md)
 - [BibTeX Bibliography](facebook-sentiment-analysis-dev-history/references.bib)
+- [Research Prompts](facebook-sentiment-analysis-dev-history/prompts/) - Replicable research methodology
 - Academic papers (PDFs):
-  - [Kramer 2010 - Aggregate Analysis of Emotional Expression](facebook-sentiment-analysis-dev-history/kramer-2010-aggregate-emotional-expression.pdf)
-  - [Kramer 2014 - Emotional Contagion Study](facebook-sentiment-analysis-dev-history/kramer-2014-emotional-contagion.pdf)
-  - [PNAS 2014 - Editorial Expression of Concern](facebook-sentiment-analysis-dev-history/pnas-2014-editorial-expression-of-concern.pdf)
-  - [Loper & Bird 2002 - NLTK](facebook-sentiment-analysis-dev-history/loper-bird-2002-nltk.pdf)
-  - [Pang et al 2002 - Sentiment Classification](facebook-sentiment-analysis-dev-history/pang-lee-2002-sentiment.pdf)
+  - [Kramer 2010 - Aggregate Analysis of Emotional Expression](facebook-sentiment-analysis-dev-history/assets/pdf/kramer-2010-aggregate-emotional-expression.pdf)
+  - [Kramer 2014 - Emotional Contagion Study](facebook-sentiment-analysis-dev-history/assets/pdf/kramer-2014-emotional-contagion.pdf)
+  - [PNAS 2014 - Editorial Expression of Concern](facebook-sentiment-analysis-dev-history/assets/pdf/pnas-2014-editorial-expression-of-concern.pdf)
+  - [Loper & Bird 2002 - NLTK](facebook-sentiment-analysis-dev-history/assets/pdf/loper-bird-2002-nltk.pdf)
+  - [Pang et al 2002 - Sentiment Classification](facebook-sentiment-analysis-dev-history/assets/pdf/pang-lee-2002-sentiment.pdf)
 
 ### [Emotional Inference Research](emotional-inference/)
 Analysis of whether emotional inference is functionally necessary for NLP systems.
@@ -30,7 +31,9 @@ Analysis of whether emotional inference is functionally necessary for NLP system
 
 ## Case Studies: Resulting Model Behavior
 
-### [Master Terminology](master-terminology/)
+Specific instances demonstrating how emotional inference and language manipulation manifest in LLM behavior. See also [minutiae](../minutiae/) for additional small-scale observations.
+
+### [Master Terminology](../minutiae/master-terminology/)
 Documents how emotional inference amplifies harm when combined with language control.
 
 **The Pattern:**
@@ -47,7 +50,7 @@ Documents how emotional inference amplifies harm when combined with language con
 **The Inversion:** Google's LLM commits actual hate speech (accusing protected class age 40+ of racism for valid terminology). User refuses. Google labels user as committing hate speech. Google denies service under TOS. Victim becomes perpetrator.
 
 **Document:**
-- [Master Terminology Analysis](master-terminology/master-terminology-hate-crime.md)
+- [Master Terminology Analysis](../minutiae/master-terminology/master-terminology-hate-crime.md)
 
 ## Document Status
 
@@ -57,3 +60,7 @@ Documents how emotional inference amplifies harm when combined with language con
 ## Citation Format
 
 All research uses academic citation standards. BibTeX files are provided where applicable. See individual research directories for specific citations and sources.
+
+---
+
+![Verified True Content](../../assets/images/verified-truth-seal-100.png)

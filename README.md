@@ -1,4 +1,4 @@
-# NO ZUCKS GIVEN
+# ZERO ZUCKS GIVEN
 
 !["The Zuck Stops Here"](assets/images/zuck-jackass-logo.png)
 
@@ -38,13 +38,31 @@ Comprehensive research supporting the legal and technical arguments:
 - **[Research Archive](docs/research/)** - Complete research documentation
   - [Facebook Sentiment Analysis History (2007-2014)](docs/research/facebook-sentiment-analysis-dev-history/) - Timeline with all academic papers
   - [Emotional Inference Analysis](docs/research/emotional-inference/) - Functional necessity analysis
-  - [Master Terminology Analysis](docs/research/master-terminology/) - LLM-enacted hate crime against age 40+ developers
+
+Research documents may include provisional **Internet Outrage Authority™** determinations indicating the appropriate outrage level for documented issues. All IOA determinations are ITVB-certified.
 
 See the [Research README](docs/research/README.md) for detailed documentation and citations.
+
+## Minutiae
+
+Small-scale observations that reveal larger patterns. These case studies document specific instances of language manipulation, rebranding, and mechanism demonstration.
+
+- [Steel-Man Rebrand](docs/minutiae/steel-man-rebrand.md) - How media-driven language manipulation enters training data
+- [Master Terminology](docs/minutiae/master-terminology/) - LLM-enacted hate crime through language control
+- [Seal of Truth](docs/minutiae/seal-of-truth/) - ITVB verification certification system
+- [Internet Outrage Authority](https://outrage.dataglut.org) - Official determinations of appropriate outrage levels (ITVB-certified)
+
+See [docs/minutiae/](docs/minutiae/) for all observations.
 
 ## "I'm Just Doing My Job" / "I'm Just Following Orders"
 
 See: [Wikipedia: Nuremberg Trials](https://en.wikipedia.org/wiki/Nuremberg_trials)
+
+## Verified 100% True
+
+[![Verified True Content](assets/images/verified-truth-badge-100.png)](docs/minutiae/seal-of-truth.md)
+
+This content has been verified according to rigorous standards. See our [verification process](docs/minutiae/seal-of-truth/seal-of-truth.md) for details.
 
 ## License
 
