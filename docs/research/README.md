@@ -31,7 +31,7 @@ Analysis of whether emotional inference is functionally necessary for NLP system
 
 ## Case Studies: Resulting Model Behavior
 
-### [Master Terminology](master-terminology/)
+### [Master Terminology](../minutiae/master-terminology/)
 Documents how emotional inference amplifies harm when combined with language control.
 
 **The Pattern:**
@@ -48,7 +48,7 @@ Documents how emotional inference amplifies harm when combined with language con
 **The Inversion:** Google's LLM commits actual hate speech (accusing protected class age 40+ of racism for valid terminology). User refuses. Google labels user as committing hate speech. Google denies service under TOS. Victim becomes perpetrator.
 
 **Document:**
-- [Master Terminology Analysis](master-terminology/master-terminology-hate-crime.md)
+- [Master Terminology Analysis](../minutiae/master-terminology/master-terminology-hate-crime.md)
 
 ## Document Status
 
