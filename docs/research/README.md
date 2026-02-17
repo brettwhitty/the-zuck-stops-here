@@ -25,9 +25,11 @@ Analysis of whether emotional inference is functionally necessary for NLP system
 ### [Master Terminology](master-terminology/)
 Documents LLM behavior when users employ valid technical terminology.
 
-**Observed Behavior:** User uses "master" or "slave" (established technical terms). LLM refuses to generate, corrects, or questions the usage.
+**Observed Behavior:** User uses "master" or "slave" (established technical terms). LLM responds with "using master is problematic" or similar language, or refuses to generate the term.
 
-**Google's Definition:** Gemini API Safety Settings define hate speech as "content that is rude, disrespectful, or profane." Questioning or correcting valid technical terminology can be characterized as disrespectful under this definition.
+**The Implication:** Calling valid terminology "problematic" implies the user is racist. This is the accusation mechanism.
+
+**Google's Definition:** Gemini API Safety Settings define hate speech as "content that is rude, disrespectful, or profane." Implying racism meets this definition.
 
 **Impact:** Targets developers maintaining legacy systems (disproportionately age 40+, protected under ADEA).
 
