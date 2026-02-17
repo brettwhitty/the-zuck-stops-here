@@ -28,12 +28,19 @@ Analysis of whether emotional inference is functionally necessary for NLP system
 - [Functional Necessity Analysis](emotional-inference/emotional-inference-functional-necessity.md)
 - [Research Plan](emotional-inference/research-plan-emotional-inference.md)
 
+## Case Studies: Resulting Model Behavior
+
 ### [Master Terminology](master-terminology/)
-Case study in emergent anti-social model behavior and manipulation.
+Example of how emotional inference amplifies harm when combined with language control.
 
-**Observed Behavior:** User uses "master" or "slave" (established technical terms). LLM responds with "using master is problematic" or similar language, or refuses to generate the term.
+**The Pattern:**
+1. User employs valid technical terminology ("master" or "slave")
+2. LLM responds with "using master is problematic" (language control)
+3. User resists the language control
+4. LLM uses emotional inference to respond inappropriately (infers user is "defensive" or "resistant")
+5. Harm amplified: User accused of racism, treated as problematic
 
-**The Mechanism:** Calling valid terminology "problematic" implies the user is racist. This is manipulation through accusation.
+**The Mechanism:** LLM combines language policing with emotional inference to manipulate users who resist. Calling valid terminology "problematic" implies racism. When user pushes back, emotional inference characterizes resistance as emotional state rather than technical correction.
 
 **Google's Definition:** Gemini API Safety Settings define hate speech as "content that is rude, disrespectful, or profane." Implying racism meets this definition.
 
