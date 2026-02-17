@@ -3,6 +3,8 @@
 ## Contents
 
 - **facebook-sentiment-analysis-timeline.md** - Comprehensive timeline and analysis of Facebook's sentiment analysis capabilities from 2007-2014
+- **loper-bird-2002-nltk.pdf** - NLTK: The Natural Language Toolkit (ACL 2002)
+- **pang-lee-2002-sentiment.pdf** - Thumbs up? Sentiment Classification using Machine Learning Techniques (EMNLP 2002)
 
 ## Key Papers (Access Restricted)
 
