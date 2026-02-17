@@ -95,8 +95,17 @@ The seal's legitimacy derives not from institutional backing, but from the demon
 
 ## Download
 
-- [100x100px version](../../assets/images/verified-true-100.png) (for footers)
+**Seal (Square Format)**
+- [100x100px version](../../assets/images/verified-true-100.png) (for document body, footers)
 - [320x320px version](../../assets/images/verified-true.png) (high resolution)
+
+**Badge (Banner Format)**
+- [237x100px version](../../assets/images/verified-truth-badge-100.png) (for headers, footers)
+- [2816x1190px version](../../assets/images/verified-truth-badge.png) (high resolution)
+
+**Usage Recommendations:**
+- **Seal**: Use in document body or as standalone footer element
+- **Badge**: Use in page headers or footer bars where horizontal space is available
 
 ## Questions?
 
