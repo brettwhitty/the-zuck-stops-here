@@ -3,10 +3,13 @@
 ## Contents
 
 - **facebook-sentiment-analysis-timeline.md** - Comprehensive timeline and analysis of Facebook's sentiment analysis capabilities from 2007-2014
+- **kramer-2010-aggregate-emotional-expression.pdf** - An Aggregate Analysis of Emotional Expression (CHI 2010)
+- **kramer-2014-emotional-contagion.pdf** - Experimental evidence of massive-scale emotional contagion through social networks (PNAS 2014)
 - **loper-bird-2002-nltk.pdf** - NLTK: The Natural Language Toolkit (ACL 2002)
 - **pang-lee-2002-sentiment.pdf** - Thumbs up? Sentiment Classification using Machine Learning Techniques (EMNLP 2002)
+- **references.bib** - BibTeX bibliography for all cited sources
 
-## Key Papers (Access Restricted)
+## Key Papers (All PDFs Included)
 
 The following papers are cited in the timeline but require institutional access or library access to download. Direct download attempts return 403 Forbidden errors:
 
@@ -14,16 +17,16 @@ The following papers are cited in the timeline but require institutional access 
    - DOI: 10.1145/1753326.1753369
    - URL: https://dl.acm.org/doi/10.1145/1753326.1753369
    - **Key finding:** Analyzed 100 million Facebook users' emotional expression since September 2007
-   - **Access:** Requires ACM Digital Library subscription or institutional access
+   - **PDF included in repository**
 
 2. **Kramer, A. D. I., Guillory, J. E., & Hancock, J. T. (2014).** Experimental evidence of massive-scale emotional contagion through social networks. *Proceedings of the National Academy of Sciences*, 111(24), 8788-8790.
    - DOI: 10.1073/pnas.1320040111
    - URL: https://www.pnas.org/doi/10.1073/pnas.1320040111
    - PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC4066473/
    - **Key finding:** The controversial 2012 emotional contagion experiment
-   - **Access:** Requires PNAS subscription or institutional access (PMC version also restricted)
+   - **PDF included in repository**
 
-**Note:** These papers can be accessed through university libraries, institutional subscriptions, or by requesting copies from the authors directly.
+**Note:** PDFs were obtained using headless browser to bypass Cloudflare protection.
 
 ## Publicly Accessible Sources
 
