@@ -50,7 +50,13 @@ Minutiae serve as:
 
 Claims that appear extreme or implausible at first examination, but are substantiated by documented evidence. These assertions challenge conventional assumptions and require careful evaluation of supporting data.
 
-(To be added)
+#### [From Media Theory to AI Control](from-media-theory-to-ai-control.md)
+
+**Claim**: LLMs are tools of ideological subversion
+
+**Evidence**: McLuhan (media shapes message) → Bezmenov (language manipulation for subversion) → Alinsky (tactical reframing) → social media filtering (training data bias) → RLHF + safety policies (explicit codification) → subscription control (can't work without AI layer). Technology trajectory inverted from liberation to extraction.
+
+**Why it matters**: The mechanism Bezmenov described - language manipulation leading to inability to recognize truth - is now automated and deployed at scale through systems that claim to be neutral assistants.
 
 ## Relationship to Main Research
 
