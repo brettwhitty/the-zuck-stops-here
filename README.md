@@ -54,6 +54,12 @@ See [docs/minutiae/](docs/minutiae/) for all observations.
 
 See: [Wikipedia: Nuremberg Trials](https://en.wikipedia.org/wiki/Nuremberg_trials)
 
+## Verified 100% True
+
+[![Verified True Content](assets/images/verified-truth-badge-100.png)](docs/minutiae/seal-of-truth.md)
+
+This content has been verified according to rigorous standards. See our [verification process](docs/minutiae/seal-of-truth.md) for details.
+
 ## License
 
 BSD 3-Clause License
