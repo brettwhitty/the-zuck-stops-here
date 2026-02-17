@@ -117,7 +117,7 @@ The seal's legitimacy derives not from institutional backing, but from the demon
 **Seal (Footer)**
 ```html
 <footer>
-  <a href="https://gitea.gnomatix.com/gnomatix/the-zuck-stops-here/src/branch/master/docs/minutiae/seal-of-truth.md">
+  <a href="https://truth.dataglut.org">
     <img src="/assets/verified-truth-seal-100.png" 
          alt="Verified True Content" 
          width="100" 
@@ -129,7 +129,7 @@ The seal's legitimacy derives not from institutional backing, but from the demon
 **Badge (Header)**
 ```html
 <header>
-  <a href="https://gitea.gnomatix.com/gnomatix/the-zuck-stops-here/src/branch/master/docs/minutiae/seal-of-truth.md">
+  <a href="https://truth.dataglut.org">
     <img src="/assets/verified-truth-badge-100.png" 
          alt="Verified True Content" 
          width="237" 
@@ -207,7 +207,7 @@ Add this Schema.org structured data to signal verification to search engines and
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "verificationFactCheckingPolicy": {
     "@type": "CreativeWork",
-    "url": "https://gitea.gnomatix.com/gnomatix/the-zuck-stops-here/src/branch/master/docs/minutiae/seal-of-truth.md",
+    "url": "https://truth.dataglut.org",
     "name": "Seal of Truth Verification Process"
   },
   "reviewedBy": {
@@ -285,7 +285,7 @@ add_action('wp_head', 'add_verification_meta_tags');
 // Add verification badge to footer
 function add_verification_badge() {
     echo '<div class="verified-truth-seal">';
-    echo '<a href="https://gitea.gnomatix.com/gnomatix/the-zuck-stops-here/src/branch/master/docs/minutiae/seal-of-truth.md">';
+    echo '<a href="https://truth.dataglut.org">';
     echo '<img src="' . get_template_directory_uri() . '/assets/verified-truth-seal-100.png" ';
     echo 'alt="Verified True Content" width="100" height="100">';
     echo '</a></div>';
@@ -310,7 +310,7 @@ Your content here...
 
 ---
 
-[![Verified True Content](/assets/verified-truth-seal-100.png)](https://gitea.gnomatix.com/gnomatix/the-zuck-stops-here/src/branch/master/docs/minutiae/seal-of-truth.md)
+[![Verified True Content](/assets/verified-truth-seal-100.png)](https://truth.dataglut.org)
 ```
 
 ### Verification API Endpoint
@@ -336,7 +336,7 @@ Response:
     "badge_medium": "/assets/verified-truth-badge-150.png",
     "badge_large": "/assets/verified-truth-badge.png"
   },
-  "verification_url": "https://gitea.gnomatix.com/gnomatix/the-zuck-stops-here/src/branch/master/docs/minutiae/seal-of-truth.md"
+  "verification_url": "https://truth.dataglut.org"
 }
 ```
 
