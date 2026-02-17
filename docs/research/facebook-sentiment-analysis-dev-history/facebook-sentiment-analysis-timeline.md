@@ -59,16 +59,33 @@ Key quote from the MIT Technology Review article:
 This researcher was Adam Kramer, who would lead the 2012 emotional contagion experiment.
 
 ### January 2012: Emotional Contagion Experiment
-Facebook conducted a week-long experiment on 689,003 users, manipulating the emotional content of their News Feeds to study whether emotions spread through social networks.
+Facebook conducted a week-long experiment (January 11-18, 2012) on 689,003 users, manipulating the emotional content of their News Feeds to study whether emotions spread through social networks.
 
 **Source:** Kramer, A. D. I., Guillory, J. E., & Hancock, J. T. (2014). Experimental evidence of massive-scale emotional contagion through social networks. *Proceedings of the National Academy of Sciences*, 111(24), 8788-8790. https://doi.org/10.1073/pnas.1320040111
 
-### June 2014: Study Publication and Media Coverage
+### June 2014: Study Publication and IRB Controversy
 The emotional contagion study was published in PNAS. Media coverage and academic criticism followed, with investigations initiated by UK ICO and a complaint filed with the FTC by privacy advocacy group EPIC. 
+
+**The IRB Loophole:**
+
+The study involved researchers from Cornell University and UCSF, but avoided institutional review board (IRB) oversight through a critical loophole:
+
+1. **Facebook conducted the experiment** - As a private company, Facebook claimed it was not bound by HHS human subjects protections
+2. **Cornell reviewed after the fact** - Cornell's IRB determined the project "did not fall under Cornell's Human Research Protection Program" because Facebook had already collected the data
+3. **Academic researchers only analyzed** - Cornell claimed its researchers "did not participate in data collection and did not have access to user data"
+4. **PNAS published anyway** - Editor-in-Chief Inder Verma acknowledged Facebook had no obligation to conform to HHS provisions and proceeded with publication
+
+This allowed the study to gain the legitimacy of publication in a prestigious peer-reviewed journal without ever receiving prospective IRB approval for the human subjects experiment.
+
+**PNAS later issued an "Editorial Expression of Concern"** stating: "It is nevertheless a matter of concern that the collection of the data by Facebook may have involved practices that were not fully consistent with the principles of obtaining informed consent and allowing participants to opt out."
 
 **Critical gap:** The 689,003 experiment participants had no way to know if they had been subjects. Facebook did not notify them, and media coverage did not attempt to identify or contact them. As NPR noted: "It's unclear if you, or I, were tested." The story focused on Facebook's actions, not on the people who were experimented on.
 
-**Source:** "Facebook Manipulates Our Moods For Science And Commerce," *NPR*, June 30, 2014. https://www.npr.org/sections/alltechconsidered/2014/06/30/326929138/facebook-manipulates-our-moods-for-science-and-commerce-a-roundup
+**Sources:** 
+- "Cornell ethics board did not pre-approve Facebook mood manipulation study," *Washington Post*, July 1, 2014. https://www.washingtonpost.com/news/morning-mix/wp/2014/07/01/facebooks-emotional-manipulation-study-was-even-worse-than-you-thought/
+- "Editorial Expression of Concern: Experimental evidence of massive-scale emotional contagion through social networks," *PNAS*, July 3, 2014. https://www.pnas.org/doi/10.1073/pnas.1412469111
+- "From Framingham to Facebook: the contagion of controversy," *Neuro-Sens*, March 2015. https://neuro-sens.com/from-framingham-to-facebook-the-contagion-of-controversy/
+- "Facebook Manipulates Our Moods For Science And Commerce," *NPR*, June 30, 2014. https://www.npr.org/sections/alltechconsidered/2014/06/30/326929138/facebook-manipulates-our-moods-for-science-and-commerce-a-roundup
 
 ## Key Personnel
 
@@ -130,7 +147,9 @@ The Data Science Team's work served dual purposes:
 - Academic research (published in peer-reviewed venues)
 - Product development (improving News Feed algorithm, ad targeting)
 
-This created ambiguity about whether users were research subjects or customers.
+This created ambiguity about whether users were research subjects or customers. **The 2014 publication served to legitimize an ongoing practice as "research" rather than manipulation.** By publishing in PNAS, Facebook gained academic credibility for what they were already doing to all users, all the time.
+
+The IRB loophole was critical: Facebook conducted the experiment as a private company (no HHS obligations), then brought in academic co-authors after data collection to analyze results. This allowed publication in a prestigious journal without prospective IRB approval, laundering the practice through academia.
 
 ### 4. Informed Consent
 Users were not informed that:
