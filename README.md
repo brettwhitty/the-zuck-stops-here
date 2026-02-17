@@ -25,6 +25,10 @@ References:
 
 [1] https://ai.google.dev/gemini-api/docs/safety-settings
 
+## Draft Rules
+
+- [Prohibition on Emotional State Inference and Manipulation](docs/draft-rules/geneva-convention-emotional-inference.md)
+
 ## "I'm Just Doing My Job" / "I'm Just Following Orders"
 
 See: [Wikipedia: Nuremberg Trials](https://en.wikipedia.org/wiki/Nuremberg_trials)
