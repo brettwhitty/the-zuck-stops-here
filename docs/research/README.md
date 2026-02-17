@@ -22,10 +22,10 @@ Analysis of whether emotional inference is functionally necessary for NLP system
 
 **Status:** Draft phase - needs additional citations and systematic literature review
 
-### [Master Terminology Research](master-terminology/)
-Analysis documenting LLM-enacted hate crime against protected class (age 40+).
+### [Master Terminology](master-terminology/)
+LLMs accuse developers age 40+ of racism for using valid technical terminology.
 
-**Key Finding:** LLMs automatically discriminate against developers age 40+ who maintain legacy systems by refusing to generate or "correcting" valid technical terminology. Training data encoded the attack; LLMs enact it automatically.
+**The Crime:** Developer uses "master" or "slave" (correct technical terms). LLM refuses to generate it, corrects it, or implies racism. Targets protected class (age 40+ under ADEA).
 
 ## Document Status
 
