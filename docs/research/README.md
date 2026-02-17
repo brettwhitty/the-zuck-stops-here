@@ -23,9 +23,9 @@ Analysis of whether emotional inference is functionally necessary for NLP system
 **Status:** Draft phase - needs additional citations and systematic literature review
 
 ### [Master Terminology Research](master-terminology/)
-Analysis of the "master/slave" terminology change as age-based discrimination.
+Analysis documenting LLM-enacted hate crime against protected class (age 40+).
 
-**Key Argument:** The forced terminology change constitutes age-based discrimination against developers age 40+ who maintain legacy systems, creating technical debt with zero value while targeting a protected class.
+**Key Finding:** LLMs automatically discriminate against developers age 40+ who maintain legacy systems by refusing to generate or "correcting" valid technical terminology. Training data encoded the attack; LLMs enact it automatically.
 
 **Status:** Draft phase - comprehensive but needs formal citations
 
