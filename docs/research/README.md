@@ -13,11 +13,11 @@ Complete timeline documenting Facebook's use of sentiment analysis from 2007-201
 - [Timeline and Analysis](facebook-sentiment-analysis-dev-history/facebook-sentiment-analysis-timeline.md)
 - [BibTeX Bibliography](facebook-sentiment-analysis-dev-history/references.bib)
 - Academic papers (PDFs):
-  - [Kramer 2010 - Aggregate Analysis of Emotional Expression](facebook-sentiment-analysis-dev-history/kramer-2010-aggregate-emotional-expression.pdf)
-  - [Kramer 2014 - Emotional Contagion Study](facebook-sentiment-analysis-dev-history/kramer-2014-emotional-contagion.pdf)
-  - [PNAS 2014 - Editorial Expression of Concern](facebook-sentiment-analysis-dev-history/pnas-2014-editorial-expression-of-concern.pdf)
-  - [Loper & Bird 2002 - NLTK](facebook-sentiment-analysis-dev-history/loper-bird-2002-nltk.pdf)
-  - [Pang et al 2002 - Sentiment Classification](facebook-sentiment-analysis-dev-history/pang-lee-2002-sentiment.pdf)
+  - [Kramer 2010 - Aggregate Analysis of Emotional Expression](facebook-sentiment-analysis-dev-history/assets/kramer-2010-aggregate-emotional-expression.pdf)
+  - [Kramer 2014 - Emotional Contagion Study](facebook-sentiment-analysis-dev-history/assets/kramer-2014-emotional-contagion.pdf)
+  - [PNAS 2014 - Editorial Expression of Concern](facebook-sentiment-analysis-dev-history/assets/pnas-2014-editorial-expression-of-concern.pdf)
+  - [Loper & Bird 2002 - NLTK](facebook-sentiment-analysis-dev-history/assets/loper-bird-2002-nltk.pdf)
+  - [Pang et al 2002 - Sentiment Classification](facebook-sentiment-analysis-dev-history/assets/pang-lee-2002-sentiment.pdf)
 
 ### [Emotional Inference Research](emotional-inference/)
 Analysis of whether emotional inference is functionally necessary for NLP systems.
