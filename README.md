@@ -10,7 +10,7 @@ Geneva Convention (since ~1949).
 
 #### Good Question
 
-Understanding why software development teams at major coorporations don't
+Understanding why software development teams at major corporations don't
 appear to understand that all humans have these inalienable rights, and
 further seem to lack the awareness that any violation of these rights is
 considered a "Crime Against Humanity" is beyond the scope of this project.
