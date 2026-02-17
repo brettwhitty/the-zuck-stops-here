@@ -63,4 +63,4 @@ All research uses academic citation standards. BibTeX files are provided where a
 
 ---
 
-![Verified True Content](../../assets/images/verified-true-100.png)
+![Verified True Content](../../assets/images/verified-truth-seal-100.png)

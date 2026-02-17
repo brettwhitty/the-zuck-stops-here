@@ -212,4 +212,4 @@ The mechanism is documented. The evidence is public. The pattern is historical. 
 
 ---
 
-![Verified True Content](../../assets/images/verified-true-100.png)
+![Verified True Content](../../assets/images/verified-truth-seal-100.png)
