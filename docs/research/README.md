@@ -31,6 +31,8 @@ Analysis of whether emotional inference is functionally necessary for NLP system
 
 ## Case Studies: Resulting Model Behavior
 
+Specific instances demonstrating how emotional inference and language manipulation manifest in LLM behavior. See also [minutiae](../minutiae/) for additional small-scale observations.
+
 ### [Master Terminology](../minutiae/master-terminology/)
 Documents how emotional inference amplifies harm when combined with language control.
 
